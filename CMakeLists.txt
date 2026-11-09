@@ -16,3 +16,4 @@ include(cmake/utils/cuda_setup_targets.cmake)
 
 enable_testing()
 add_subdirectory(work1)
+add_subdirectory(work2)
